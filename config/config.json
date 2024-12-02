@@ -1,0 +1,19 @@
+{
+  "app": {
+    "theme": "dark",
+    "page": {
+       "layout":"wide",
+       "title":"Synthetic data Generator",
+       "icon":"assets/logo_light.png",
+       "sidebar":"expanded"
+    },
+    "options-menu": {
+        "container": {"padding": "0!important", "background-color": "black"},
+        "nav": {"gap": "10px"},
+        "icon": {"display": "none", "color": "orange", "font-size": "25px"},
+        "nav-link": {"font-size": "16px", "text-align": "left", "margin": "0px", "display": "flex",
+                     "align-items": "center"},
+        "nav-link-selected": {"background-color": "#0e1117", "font-weight": "normal", "border-radius": "0px"}
+    }
+  }
+}
