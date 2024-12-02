@@ -75,4 +75,4 @@ This project uses the following libraries and tools:
 - **[pandas](https://pandas.pydata.org/)**: For data manipulation and table operations.
 - **[numpy](https://numpy.org/)**: For numerical computations and advanced data generation.
 - **[streamlit-option-menu](https://pypi.org/project/streamlit-option-menu/)**: For creating dynamic sidebar navigation menus.
-- **[streamlit-extras](https://github.com/streamlit/streamlit-extras)**: Enhancements for custom UI components.
+- **[streamlit-extras](https://pypi.org/project/streamlit-extras/)**: Enhancements for custom UI components.
